@@ -4,11 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi! I am a masters student of Graduate School of Culture Technology at KAIST, South Korea.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am currently advised by Professor Sang Ho Yoon in HCI Tech Lab.
 
 ## Research Interest
 
